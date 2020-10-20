@@ -1,0 +1,14 @@
+
+#disForm{
+	margin:30px auto;
+	width: 800px;
+	text-align: center;
+}
+#dis{
+	width:300px;
+}
+
+#res p{
+	font-size:15px;
+	text-indent:2em;
+}
